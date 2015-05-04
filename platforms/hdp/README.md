@@ -18,10 +18,10 @@ Video Tutorial
 
 [<img src="http://img.youtube.com/vi/raCtS84Vb6w/0.jpg" width="320px" />](http://www.youtube.com/watch?v=raCtS84Vb6w)
 
-####Step-by-step video tutorial  from http://www.colaberry.com for entry level developers using Mac: 
+##Step-by-step video tutorial  from http://www.colaberry.com for entry level developers using Mac: 
 [![Demo CountPages alpha](https://i.vimeocdn.com/portrait/7324323_200x200.webp)](https://player.vimeo.com/video/126329189?autoplay=1)
 
-####Step-by-step video tutorial from http://www.colaberry.com for entry level developers using Windows:
+##Step-by-step video tutorial from http://www.colaberry.com for entry level developers using Windows:
 [![Demo CountPages alpha](https://i.vimeocdn.com/portrait/7324323_200x200.webp)](https://player.vimeo.com/video/126638035?autoplay=1)
 
 
