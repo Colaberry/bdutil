@@ -20,9 +20,10 @@ Video Tutorial
 
 Video Tutorials from Colaberry.com
 --------------
-######Step-by-step video tutorial (https://vimeo.com/colaberry/hdpongooglecloud) from http://www.colaberry.com for entry level developers using Mac. 
 
-######Step-by-step video tutorial (https://vimeo.com/colaberry/hdpongooglecloudfromwindows) from http://www.colaberry.com for entry level developers using Windows. 
+*Step-by-step video tutorial (https://vimeo.com/colaberry/hdpongooglecloud) from http://www.colaberry.com for entry level developers using Mac. 
+
+*Step-by-step video tutorial (https://vimeo.com/colaberry/hdpongooglecloudfromwindows) from http://www.colaberry.com for entry level developers using Windows. 
 
 
 Before you start
