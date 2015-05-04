@@ -18,6 +18,10 @@ Video Tutorial
 
 [<img src="http://img.youtube.com/vi/raCtS84Vb6w/0.jpg" width="320px" />](http://www.youtube.com/watch?v=raCtS84Vb6w)
 
+Step-by-step video guide for entry level developers using Mac: <iframe src="https://player.vimeo.com/video/126329189" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Step-by-step video guide for entry level developers using Windows:<iframe src="https://player.vimeo.com/video/126638035" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Before you start
 ----------------
 
