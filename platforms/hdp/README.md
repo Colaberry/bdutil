@@ -1,4 +1,4 @@
-# ![Hortonworks Data Platform](http://hortonworks.com/wp-content/themes/hortonworks/images/layout/header/hortonworks-logo.png) + ![Google Cloud Platform](https://cloud.google.com/_static/images/gcp-logo.png) + ![Colaberry.com] (https://p4.zdassets.com/hc/settings_assets/509149/200040660/bAXZAMCO0PeKdxByiHx4FQ-ColaBerry_2.png)
+# ![Hortonworks Data Platform](http://hortonworks.com/wp-content/themes/hortonworks/images/layout/header/hortonworks-logo.png) + ![Google Cloud Platform](https://cloud.google.com/_static/images/gcp-logo.png) + ![Colaberry.com] (http://www.colaberry.com/assets/img/colaberrylogosmall.png)
 
 Hortonworks Data Platform (HDP) on Google Cloud Platform
 ========================================================
